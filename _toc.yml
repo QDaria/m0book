@@ -1,0 +1,21 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+format: jb-book
+root: index
+parts:
+  - caption: Introduction (Template Caption)
+    numbered: True  # Only applies to chapters in Part 1.
+    chapters:
+    - file: 0_intro
+      sections:
+      - file: 01_config
+  - caption: Theme Effect 
+    numbered: True   # Only applies to chapters in Part 1.
+    chapters:
+    - file: 1_ph
+      sections:
+      - file: 11_ph 
+  - caption: And So On 
+    numbered: True   # Only applies to chapters in Part 1.
+    chapters:
+    - file: 2_ph
