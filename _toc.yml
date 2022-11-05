@@ -12,10 +12,10 @@ parts:
   - caption: Theme Effect 
     numbered: True   # Only applies to chapters in Part 1.
     chapters:
-    - file: 1_ph
+    - file: parts/ch1/1_ph
       sections:
-      - file: 11_ph 
+      - file: parts/ch1/11_ph 
   - caption: And So On 
     numbered: True   # Only applies to chapters in Part 1.
     chapters:
-    - file: 2_ph
+    - file: parts/ch2/2_ph
